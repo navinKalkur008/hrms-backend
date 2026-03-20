@@ -1,0 +1,17 @@
+target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env
+application.properties
